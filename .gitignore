@@ -1,0 +1,30 @@
+# -------- General -------- 
+.build/
+Debug/
+Release/
+
+!third_party/
+# -------------------------
+
+# ----- Visual Studio ----- 
+.vs/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.log
+# -------------------------
+
+# --------- Make ---------- 
+Makefile
+# -------------------------
+
+# ----- XCode -----
+*.xcodeproj/
+*.xcworkspace/
+# -------------------------
+
+# ------- CodeLite --------
+*.project
+*.workspace
+# -------------------------
