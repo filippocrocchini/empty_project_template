@@ -1,5 +1,5 @@
 Run the generate_xxx script based on which operating system you are using;
-this will set up the right files and folders for yout build system. (e.g. Visial Studio 2022, Xcode, ...)
+this will set up the right files and folders for yout build system. (e.g. Visual Studio 2022, Xcode, ...)
 
 !!Important!!:
 - If you add files make sure they go in the right folder; source files outside src/ will not be compiled.
